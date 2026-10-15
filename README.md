@@ -6,6 +6,8 @@ A hardware-based file encryption key built on the **Raspberry Pi Pico** and **AT
 
 **Status:** Project concluded following the master's thesis defense. The repository is maintained on a *best-effort* basis.
 
+<img width="4032" height="3024" alt="img_3640" src="https://github.com/user-attachments/assets/09d996d5-dc57-4d78-9645-cc0519ee886f" />
+
 ## Table of Contents
 
 - [pico-secure-key](#pico-secure-key)
